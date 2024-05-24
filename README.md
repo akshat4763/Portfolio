@@ -1,62 +1,60 @@
-##Portfolio Website
+# My Portfolio Website
 
+Welcome to my portfolio website! This project is built using React and features a modern UI with a glassmorphism design. Below you will find the working link, installation instructions, and a few screenshots to showcase the website.
 
+## Live Demo
 
-This is a portfolio website created using React with Glassmorphism UI design. It showcases the skills, projects, and contact information of the developer.
+Check out the live version of my portfolio website [here](https://akshat4763-portfolio.netlify.app/).
 
-##Features
+## Features
 
+- **React**: The entire project is built using React, a powerful JavaScript library for building user interfaces.
+- **Glassmorphism UI**: A sleek and modern glassmorphism design to provide a stunning visual experience.
+- **Responsive Design**: Optimized for all devices, ensuring a seamless experience on both desktop and mobile.
 
-Glassmorphism UI: The website design follows the Glassmorphism trend, providing a sleek and modern look.
-Responsive Design: The website is fully responsive, ensuring optimal viewing experience across various devices and screen sizes.
-Navigation: The navigation bar allows easy access to different sections of the website, including Home, Projects, Skills, and Contacts.
-Social Media Links: Links to various social media profiles (Instagram, LinkedIn, GitHub, Twitter) are provided for networking and contact purposes.
-Downloadable Resume: A button is provided to download the developer's resume in PDF format.
-Profile Image: A profile image of the developer is displayed on the website.
-Technologies Used
+## Screenshots
 
--React
--CSS (with Glassmorphism UI)
--HTML
-##Installation
+![Home Page](https://i.ibb.co/0JBdFXz/Screenshot-2024-05-24-at-4-04-48-PM.png)
+*Home Page*
 
-1.Clone the repository:
-git clone https://github.com/your-username/portfolio-website.git
+## Installation
 
+To run this project locally, follow these steps:
 
-2.Navigate to the project directory:
-cd portfolio-website
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/yourusername/Portfolio.git
+    ```
+   
+2. **Navigate to the project directory:**
+    ```sh
+    cd Portfolio
+    ```
 
-3.Install dependencies:
-npm install
+3. **Install dependencies:**
+    ```sh
+    npm install
+    ```
 
+4. **Start the development server:**
+    ```sh
+    npm run dev
+    ```
 
-4.Start the development server:
-npm start
+Your portfolio website should now be running on `http://localhost:3000`.
 
-Open your browser and visit http://localhost:3000 to view the website.
+## Contributing
 
-##Folder Structure
+If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Contributions are always welcome!
 
+## License
 
-src: Contains the React source code.
-components: Contains React components.
-assets: Contains assets such as images and PDF files.
-App.js: Main entry point of the application.
-index.js: Renders the React application to the DOM.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Contact
 
+Feel free to reach out to me via [email@example.com](mailto:feedbackformyapplication@gmail.com) if you have any questions or would like to collaborate.
 
+---
 
-Credits
-
-Glassmorphism UI design inspired by Glassmorphism CSS Generator.
-Icons from icons8 and UXWing.
-License
-
-
-
-
-This project is licensed under the MIT License.
-
-# Portfolio
+Thank you for checking out my portfolio website! I hope you enjoy exploring it as much as I enjoyed building it.
